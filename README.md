@@ -7,7 +7,7 @@ By means of this tutorial, we would like to equip the mostly technical audience 
 
 ## Tutorial Materials
 
-* [SIGIR 2022 Tutorial Slides](SIGIR2022tutorial.pdf)
+* [SIGIR 2022 Tutorial Slides](SIGIR-tutorial-slides.pdf)
 * [SIGIR 2022 Proceedings Paper](SIGIR2022tutorial.pdf)
 
 ## Organization
