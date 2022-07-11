@@ -8,7 +8,6 @@ By means of this tutorial, we would like to equip the mostly technical audience 
 ## Tutorial Materials
 
 * Presentation Slides ([link](TBA))
-* Presentation Video ([link](TBA))
 * Proceedings Paper ([link](TBA))
 
 ## Organization
