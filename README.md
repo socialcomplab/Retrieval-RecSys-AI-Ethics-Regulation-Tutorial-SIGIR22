@@ -8,7 +8,7 @@ By means of this tutorial, we would like to equip the mostly technical audience 
 ## Tutorial Materials
 
 * Presentation Slides ([link](TBA))
-* Proceedings Paper ([link](TBA))
+* [SIGIR 2022 Proceedings Paper] (Tutorial_PIRS_WEB_2022.pdf)
 
 ## Organization
 
