@@ -8,7 +8,7 @@ By means of this tutorial, we would like to equip the mostly technical audience 
 ## Tutorial Materials
 
 * Presentation Slides ([link](TBA))
-* [SIGIR 2022 Proceedings Paper] (Tutorial_PIRS_WEB_2022.pdf)
+* [SIGIR 2022 Proceedings Paper] (SIGIR_2022_Tutorial__Ethics_and_Regulation_in_IR_and_RS.pdf)
 
 ## Organization
 
